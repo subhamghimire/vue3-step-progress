@@ -2,8 +2,10 @@
 
 `StepProgress` is a an step progress bar component. Here's how to use it...
 
+`import StepProgress from "vue3-step-progress";`
+
 <template>
-  <vue3-step-progress :steps="steps" :active-step="currentStep" />
+  <step-progress :steps="steps" :active-step="currentStep" />
 </template>
 
 Where steps are the list of labels to be displayed for each step and currentStep is the currently active step.
