@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Vue 3 Step Progress Bar",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"Installation",slug:"installation",children:[]}],git:{updatedTime:1647182773e3,contributors:[{name:"subhamghimire",email:"subham.ghimire26@gmail.com",commits:2}]},filePathRelative:"README.md"};export{e as data};
