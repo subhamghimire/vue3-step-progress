@@ -8,5 +8,5 @@ module.exports = {
       },
     ],
   },
-  base: "vue3-step-progress",
+  base: "/vue3-step-progress/",
 };
