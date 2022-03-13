@@ -9,9 +9,9 @@ export default defineComponent({
   },
   setup() {
     const steps = [
-      "App heruterladen",
-      " QR Code scannen",
-      "Google Authentictor aktivieren",
+      "Step 1",
+      "Step 2",
+      "Step 3",
     ];
     const currentStep = ref(1);
     return {
