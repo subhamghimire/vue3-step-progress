@@ -1,4 +1,5 @@
 module.exports = {
+  title: "Vue 3 Step Progress | Subham Ghimire",
   themeConfig: {
     sidebar: [
       "/",

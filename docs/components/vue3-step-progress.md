@@ -4,9 +4,7 @@
 
 `import StepProgress from "vue3-step-progress";`
 
-<template>
-  <step-progress :steps="steps" :active-step="currentStep" />
-</template>
+`<step-progress :steps="steps" :active-step="currentStep" />`
 
 Where steps are the list of labels to be displayed for each step and currentStep is the currently active step.
 
