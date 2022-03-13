@@ -5,3 +5,7 @@ It is a step indicator for your stepped progress in Vue 3 js with composition ap
 ### Installation
 
 $ npm install vue3-step-progress
+
+### Example
+
+<img src="screenshots/vue3-step-progress.gif" width="100%" >
