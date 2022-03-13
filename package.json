@@ -63,8 +63,5 @@
   },
   "engines": {
     "node": ">=12"
-  },
-  "dependencies": {
-    "sass": "^1.49.9"
   }
 }
