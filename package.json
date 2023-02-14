@@ -1,7 +1,7 @@
 {
   "name": "vue3-step-progress",
   "description": "Vue 3 step progress bar with compostion api",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "author": {
     "name": "Subham Ghimire",
     "email": "subham.ghimire26@gmail.com"
